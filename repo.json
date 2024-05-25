@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "TheHeadPatCat",
+    "Name": "Warrior of Lighting",
+    "Description": "A Plugin providing Pishock integration.",
+    "Punchline": "Get Zapped for your mistakes.",
+    "InternalName": "WoLightning",
+    "AssemblyVersion": "0.1.0",
+    "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "WoLighting",
+      "Pishock",
+      "Social"
+    ],
+    "DalamudApiLevel": 9,
+    "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1715119885,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.1.0/WoLightning.zip",
+    "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.1.0/WoLightning.zip",
+    "DownloadLinkUpdate": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.1.0/WoLightning.zip"
+  }
+]
