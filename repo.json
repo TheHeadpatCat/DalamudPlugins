@@ -5,7 +5,7 @@
     "Description": "A Plugin providing Pishock integration.",
     "Punchline": "Get Zapped for your mistakes.",
     "InternalName": "WoLightning",
-    "AssemblyVersion": "0.1.0",
+    "AssemblyVersion": "0.1.1",
     "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
     "ApplicableVersion": "any",
     "Tags": [
