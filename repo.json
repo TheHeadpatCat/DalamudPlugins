@@ -5,7 +5,7 @@
     "Description": "A Plugin providing Pishock integration.",
     "Punchline": "Get Zapped for your mistakes.",
     "InternalName": "WoLightning",
-    "AssemblyVersion": "0.2.3.2",
+    "AssemblyVersion": "0.2.3.3",
     "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
     "ApplicableVersion": "any",
     "Tags": [
@@ -17,10 +17,10 @@
     "IconUrl": "https://raw.githubusercontent.com/TheHeadPatCat/WoLightning/master/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1717347956,
+    "LastUpdated": 1717363123,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.2.3.2/WoLightning.zip",
-    "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.2.3.2/WoLightning.zip",
-    "DownloadLinkUpdate": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.2.3.2/WoLightning.zip"
+    "DownloadLinkInstall": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.2.3.3/WoLightning.zip",
+    "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.2.3.3/WoLightning.zip",
+    "DownloadLinkUpdate": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.2.3.3/WoLightning.zip"
   }
 ]
