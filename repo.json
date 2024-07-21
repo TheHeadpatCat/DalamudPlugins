@@ -17,10 +17,10 @@
     "IconUrl": "https://raw.githubusercontent.com/TheHeadPatCat/WoLightning/master/etc/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1721205871,
+    "LastUpdated": 1721568931,
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.2.6.1/WoLightning.zip",
-    "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.2.6.1/WoLightning.zip",
+    "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.3.0.0/WoLightning.zip",
     "DownloadLinkUpdate": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.2.6.1/WoLightning.zip"
   }
 ]
