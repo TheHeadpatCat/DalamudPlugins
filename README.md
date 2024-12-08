@@ -11,5 +11,6 @@ Then, open the Plugin Installer and search for whatever plugin you need, from th
 
 Currently includes:
 
-## Warrior of Lightning  
-  Allows for ingame usage of a [Pishock](https://pishock.com/#/).
+## [Warrior of Lightning](https://github.com/TheHeadpatCat/WoLightning)  
+  Allows for ingame usage of a [Pishock](https://pishock.com/#/) Device.   
+  Let's users pick from a variety of premade Triggers, and lets them add their own!
