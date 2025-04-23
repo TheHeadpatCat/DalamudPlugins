@@ -18,7 +18,7 @@
     "TestingDalamudApiLevel": 12,
     "IconUrl": "https://raw.githubusercontent.com/TheHeadPatCat/WoLightning/master/etc/icon.png",
     "IsHide": "False",
-    "IsTestingExclusive": "False",
+    "IsTestingExclusive": "True",
     "LastUpdated": 1745427985,
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.4.1.6/latest.zip",
