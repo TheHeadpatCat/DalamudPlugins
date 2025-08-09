@@ -5,8 +5,8 @@
     "Description": "Integration for Pishock and OpenShock devices.",
     "Punchline": "Get Zapped for your mistakes.",
     "InternalName": "WoLightning",
-    "AssemblyVersion": "0.5.5.1",
-    "TestingAssemblyVersion": "0.5.5.1",
+    "AssemblyVersion": "0.5.6.0",
+    "TestingAssemblyVersion": "0.5.6.0",
     "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
     "ApplicableVersion": "any",
     "Tags": [
@@ -14,15 +14,15 @@
       "Pishock",
       "Social"
     ],
-    "DalamudApiLevel": 12,
-    "TestingDalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
     "IconUrl": "https://raw.githubusercontent.com/TheHeadPatCat/WoLightning/master/etc/iconSmall.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1751304570,
-    "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.5.5.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.5.5.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.5.5.1/latest.zip"
+    "LastUpdated": 1754740298,
+    "DownloadCount": 500,
+    "DownloadLinkInstall": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.5.6.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.5.6.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.5.6.0/latest.zip"
   }
 ]
