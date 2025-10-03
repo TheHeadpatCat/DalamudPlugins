@@ -5,8 +5,8 @@
     "Description": "Integration for Pishock and OpenShock devices.",
     "Punchline": "Get Zapped for your mistakes.",
     "InternalName": "WoLightning",
-    "AssemblyVersion": "0.5.7.1",
-    "TestingAssemblyVersion": "0.5.7.1",
+    "AssemblyVersion": "0.5.7.2",
+    "TestingAssemblyVersion": "0.5.7.2",
     "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
     "ApplicableVersion": "any",
     "Tags": [
@@ -21,8 +21,8 @@
     "IsTestingExclusive": "False",
     "LastUpdated": 1757493624,
     "DownloadCount": 69,
-    "DownloadLinkInstall": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.5.7.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.5.7.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.5.7.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.5.7.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.5.7.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.5.7.2/latest.zip"
   }
 ]
