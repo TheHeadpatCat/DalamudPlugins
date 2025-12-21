@@ -14,8 +14,8 @@
       "Pishock",
       "Social"
     ],
-    "DalamudApiLevel": 13,
-    "TestingDalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
     "IconUrl": "https://raw.githubusercontent.com/TheHeadPatCat/WoLightning/master/etc/iconSmall.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
