@@ -6,7 +6,7 @@
     "Punchline": "Get Zapped for your mistakes.",
     "InternalName": "WoLightning",
     "AssemblyVersion": "0.6.2.7",
-    "TestingAssemblyVersion": "0.6.2.7",
+    "TestingAssemblyVersion": "0.7.0.0",
     "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
     "ApplicableVersion": "any",
     "Tags": [
@@ -19,10 +19,10 @@
     "IconUrl": "https://raw.githubusercontent.com/TheHeadPatCat/WoLightning/master/etc/iconSmall.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1767556374,
+    "LastUpdated": 1767913432,
     "DownloadCount": 69,
     "DownloadLinkInstall": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.6.2.7/latest.zip",
-    "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.6.2.7/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.7.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.6.2.7/latest.zip"
   }
 ]
