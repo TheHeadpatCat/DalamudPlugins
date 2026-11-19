@@ -24,5 +24,30 @@
     "DownloadLinkInstall": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.7.9.3/latest.zip",
     "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.7.9.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.7.9.3/latest.zip"
+  },
+  {
+    "Author": "TheHeadPatCat",
+    "Name": "ReeNamererer",
+    "Description": "Lets you rename NPCs and change their Nameplates",
+    "Punchline": "Rename NPCs and change their Nameplates.",
+    "InternalName": "ReeNamererer",
+    "AssemblyVersion": "0.1",
+    "TestingAssemblyVersion": "0.1",
+    "RepoUrl": "https://github.com/TheHeadpatCat/ReeNamererer",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Rename",
+      "NPC",
+      "QoL"
+    ],
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1794741563,
+    "DownloadCount": 420,
+    "DownloadLinkInstall": "https://github.com/TheHeadpatCat/ReeNamererer/releases/tag/0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TheHeadpatCat/ReeNamererer/releases/tag/0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/TheHeadpatCat/ReeNamererer/releases/tag/0.1/latest.zip"
   }
 ]
