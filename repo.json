@@ -19,7 +19,7 @@
     "IconUrl": "https://raw.githubusercontent.com/TheHeadPatCat/WoLightning/master/etc/iconSmall.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1795131578,
+    "LastUpdated": 1795132460,
     "DownloadCount": 69,
     "DownloadLinkInstall": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.7.9.3/latest.zip",
     "DownloadLinkTesting": "https://github.com/TheHeadPatCat/WoLightning/releases/download/0.7.9.3/latest.zip",
@@ -44,10 +44,10 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1795131578,
+    "LastUpdated": 1795132460,
     "DownloadCount": 420,
-    "DownloadLinkInstall": "https://github.com/TheHeadpatCat/ReeNamererer/releases/tag/0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/TheHeadpatCat/ReeNamererer/releases/tag/0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/TheHeadpatCat/ReeNamererer/releases/tag/0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/TheHeadpatCat/ReeNamererer/releases/download/0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TheHeadpatCat/ReeNamererer/releases/download/0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/TheHeadpatCat/ReeNamererer/releases/download/0.1/latest.zip"
   }
 ]
