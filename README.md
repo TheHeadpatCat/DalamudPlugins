@@ -14,3 +14,6 @@ Currently includes:
 ## [Warrior of Lightning](https://github.com/TheHeadpatCat/WoLightning)  
   Allows for ingame usage of [Pishock](https://pishock.com/#/) or [OpenShock](https://openshock.org/) Devices.   
   Let's users select ingame Events to trigger the devices capabilities!
+
+## [ReeNamererer](https://github.com/TheHeadpatCat/ReeNamererer)
+  Lets you rename any NPC in the game. Simple as that.
